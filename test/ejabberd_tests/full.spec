@@ -11,6 +11,7 @@
 %% taken from default.spec
 {suites, "tests", adhoc_SUITE}.
 {suites, "tests", conf_reload_SUITE}.
+{suites, "tests", component_SUITE}.
 {suites, "tests", ejabberdctl_SUITE}.
 {suites, "tests", last_SUITE}.
 {suites, "tests", login_SUITE}.
